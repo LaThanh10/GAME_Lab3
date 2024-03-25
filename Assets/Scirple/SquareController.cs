@@ -51,7 +51,7 @@ public class SquareController: MonoBehaviour
             Debug.Log("win");
             LoadNextScene();
         }
-        if (collision.gameObject.tag.Equals("Pinwheel"))
+        if (collision.gameObject.tag.Equals("SpinWheel"))
         {
             Vector2 fistPosition = new Vector2(-9, 1);
             transform.position = fistPosition;

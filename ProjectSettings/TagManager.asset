@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Square
   - Circle
+  - SpinWheel
   layers:
   - Default
   - TransparentFX
